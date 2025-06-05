@@ -8,6 +8,7 @@
 -->
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align:middle;"/>
+![My GIF](https://raw.githubusercontent.com/vinaykumar2126/vinaykumar2126/main/ch.gif)
 > Always pushing to deploy the next big thing.
 
 ---
