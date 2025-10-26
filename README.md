@@ -43,8 +43,7 @@ Always pushing to deploy the next big thing.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/copilot.vim/main/assets/copilot-icon.svg" alt="GitHub Copilot" width="40" height="40"/>
-  <img src="https://www.cursor.so/favicon-32x32.png" alt="Cursor" width="40" height="40"/>
+
 
   <!-- Add more icons as needed -->
 </p>
